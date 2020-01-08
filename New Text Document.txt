@@ -1,0 +1,263 @@
+LIST OF TOPICS
+
+
+
+
+-- OOPS CONCEPTS
+
+--
+POINTERS/REFERENCES
+
+--
+DATA STRUCTURES (LINKEDLIST, STACK,QUEUE)
+
+
+-- ALGORITHMS (Sorting, Searching)
+
+
+ 
+
+--------------------DBMS----------------------------
+
+--
+ BASIC CONCEPTS LIKE (KEYS, ATTRIBUTES)
+
+
+--SQL Queries
+
+--
+Joins
+
+
+-- ACID Properties
+
+--
+Database Indexing
+
+--
+Normalisation
+ 
+
+ 
+
+--------------------OPERATING SYSTEMS--------------------
+
+--
+Processes management
+
+--
+difference between process and threads
+
+--
+CPU Scheduling Mechanisms
+
+--
+Synchronisation concepts
+
+LEVEL-1
+
+-------------------------------------------------
+
+
+Basic OOPS and programming CONCEPTS
+
+Ex:-
+
+
+1. Storage classes
+
+
+2. Basic usage of pointers (if students preffered choice of language is c or c++)
+
+
+3. Code compilation and linking process
+
+4. Basic OOPs concepts like classes, objects, constructor, destructors.
+
+
+
+
+ALGORITHMS (Sorting, Searching)
+
+Ex:-
+
+
+1. Basic string related questions like string length and string reverse.
+
+
+2. Basic sorting algos like bubblesort.
+3. Time and Space complexities related questions
+4. Fibonnaci of a number with and without recursion
+
+
+               
+
+               
+
+
+SQL Questions
+
+Ex:-
+
+
+1. CRUD operations.
+2. Difference between truncate, delete and drop
+
+3. foreign keys, primary keys and their relationship
+
+ 
+
+-----------------------------------------------------------------
+
+LEVEL-2
+
+-------------------------------------------------
+
+
+OOPS and programming CONCEPTS
+
+Ex:-
+1. Questions to evaluate the understanding of students knowledge in basic programming concepts such as
+inheritance (internals), interfaces, abstract classes, static polymorphism etc in detail
+
+
+
+DataStructures & Algorithms (Sorting, Searching, Pattern matching)
+
+Ex:-
+
+
+1. Sorting algos like insertion sort, quick sort and their time complexities
+
+
+2. QuickSort, Mergesort, heapsort
+3. Binary search
+4. Understanding of basic data structures like linkedlist(searching for a element), stacks, queue, Binary Trees and their traversals
+
+
+5. Strings related questions such as (searching substring)
+6. Understanding of Maps, sets( c & c++) treeset, hashset, etc in (Java).
+
+
+
+SQL Questions
+
+Ex:-
+1. SQL Queries
+2. Questions related to Database Normalisation
+
+
+3. Types of Joins 
+
+ 
+
+BASIC Operating system conceptual questions
+
+Ex:-
+
+
+1. Difference between process and threads
+
+
+2. what is deadlock and how to avoid it.
+
+
+3. cpu scheduling algos (FCFC, Roundrobin etc)
+
+ 
+
+Questions to analyze logical thinking ability
+
+LEVEL-3
+
+------------------------------------------------------------
+
+
+DataStructures related Questions 
+
+Ex:-
+
+
+1. Linkedlist related Questions (deletion of node and entire list, reversing a linked list,check if there exists a loop, length of loop)
+
+
+2. Basic Implementation of Queue, Stack and their applications
+
+
+3. Strings related questions such that finding a substring in given string and its optimisation
+
+
+4. Questions related to double dimensional arrays.
+
+
+5. Find k-th larget element in an array.
+
+
+Advanced Programming concepts
+
+
+1. Virtual functions, dynamic polymorphism.
+
+
+2. File handling.
+
+
+3. Memory management.
+SQL Questions
+
+
+1. Database Modelling Questions
+
+
+2. Advanced SQL Queries
+3. Indexing Questions
+
+ 
+
+
+OS
+
+
+1. IPC Mechanisms
+
+
+2. Thread&Process synchronization mechanisms
+
+LEVEL-4
+
+-----------------------------------------------------------
+TThread	
+GDB
+Valgrind
+Casting types static const
+LValue and RValue
+Pointers vs refernces
+& in assignment operator and assignment operator
+Const in copy constructor
+levels of protect keyword
+conversion constructor
+Int vs float in overloading
+Malloc,Calloc,New
+free vs delete
+heap vs stack
+abstract class
+pure virtual function
+Stl
+Vector vs list
+Dereferencing
+Map vs set
+Maps uses buckets
+Hash function
+Collisions in maps
+Indexing in mapsq
+functors
+return values in the insertion of maps
+9 coin problem weights
+singleton
+how can we restrict only oe object in singleton
+declaring the reference in class
+initializer list in c++ with constructor
+reverse string in the insertion of maps
+reverse string using recursion
+
+
